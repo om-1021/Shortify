@@ -30,7 +30,7 @@ Follow these instructions to set up and run the project locally on your machine.
 
    ```bash
    git clone https://github.com/om-1021/Shortify.git
-   cd cd Shortify
+   cd Shortify
 2. **Install dependencies**
    
     ```bash
@@ -39,8 +39,9 @@ Follow these instructions to set up and run the project locally on your machine.
 
   ```bash
     npm start
+```
 This will start the development server, and you can access the application at http://localhost:3000.
-``` 
+
 
 **Usage**
 Shorten a URL
